@@ -1,7 +1,0 @@
-D:\Code\sharpdap\sharpdap\obj\Debug\sharpdap.csprojResolveAssemblyReference.cache
-D:\Code\sharpdap\sharpdap\bin\Debug\sharpdap.dll
-D:\Code\sharpdap\sharpdap\bin\Debug\sharpdap.pdb
-D:\Code\sharpdap\sharpdap\obj\Debug\sharpdap.dll
-D:\Code\sharpdap\sharpdap\obj\Debug\sharpdap.pdb
-D:\Code\sharpdap\sharpdap\bin\Debug\Newtonsoft.Json.dll
-D:\Code\sharpdap\sharpdap\bin\Debug\Newtonsoft.Json.xml
