@@ -1,0 +1,10 @@
+D:\Code\sharpdap\Testsharpdap\bin\Debug\Testsharpdap.exe.config
+D:\Code\sharpdap\Testsharpdap\bin\Debug\Testsharpdap.exe
+D:\Code\sharpdap\Testsharpdap\bin\Debug\Testsharpdap.pdb
+D:\Code\sharpdap\Testsharpdap\bin\Debug\sharpdap.dll
+D:\Code\sharpdap\Testsharpdap\bin\Debug\sharpdap.pdb
+D:\Code\sharpdap\Testsharpdap\obj\Debug\Testsharpdap.csprojResolveAssemblyReference.cache
+D:\Code\sharpdap\Testsharpdap\obj\Debug\Testsharpdap.exe
+D:\Code\sharpdap\Testsharpdap\obj\Debug\Testsharpdap.pdb
+D:\Code\sharpdap\Testsharpdap\bin\Debug\Newtonsoft.Json.dll
+D:\Code\sharpdap\Testsharpdap\bin\Debug\Newtonsoft.Json.xml
